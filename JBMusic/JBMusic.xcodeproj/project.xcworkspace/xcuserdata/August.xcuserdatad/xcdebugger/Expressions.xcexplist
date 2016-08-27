@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[JBPlayingView addLrcTimer]:JBPlayingView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.lrcBtn.selected">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[JBLrcCell setLine:]:JBLrcCell.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[JBLrcCell layoutSubviews]:JBLrcCell.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.width">
+            </PersistentString>
+            <PersistentString
+               value = "self.textLabel.width">
+            </PersistentString>
+            <PersistentString
+               value = "self.textLabel.x">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[JBPlayingView toggleLrc:]:JBPlayingView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.lrcView.isHidden">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[JBPlayingView updateInfo:]:JBPlayingView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.player.currentTime">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[JBLrcView initWithCoder:]:JBLrcView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "tableView.contentInset">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[JBLrcView setLrcString:]:JBLrcView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "lrcString">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[JBLrcView setCurrentTime:]:JBLrcView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self strLrcTime:cntLine.time]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
